@@ -18,6 +18,18 @@ Check [Canvas](https://oit.instructure.com/) for course details and information.
 
 {{</details>}}
 
+{{<details title = "Some videos that I made">}}
+
+  - [Vector Calculus I](https://drive.google.com/drive/folders/1M9oa-jtBBT0n2qBvJ1fDKM8LkJmmG2qR?usp=drive_link)
+  - [Mathematical Structures](https://drive.google.com/drive/folders/1N6J0mF_16GHOVCVKjzA7wsKjpx45wtir?usp=drive_link)
+  - [Differential Equations](https://drive.google.com/drive/folders/1NDCp-nFRZxV2aWGiUQHHXwYyEGnXpPU4?usp=drive_link)
+  - [Discrete Mathematics](https://drive.google.com/drive/folders/1NGMOzPHlTlw2bbMKBh2fJsUraIbxhL8n?usp=drive_link)
+  - [Linear Algebra I](https://drive.google.com/drive/folders/1NJtJaS0havS7-8pEHXgSfKiE_IF1EGCq?usp=drive_link)
+  - [Linear Algebra II](https://drive.google.com/drive/folders/1NgNIb5Won36_pmeHeo9HT_w-D1CMmuoJ?usp=drive_link)
+  - [Vector Calculus II](https://drive.google.com/drive/folders/1NcGayNLuTwoGv0PVSDDydrNurCMxIltI?usp=drive_link)
+
+{{</details>}}
+
 {{<details title = "Courses that I have taught in the past">}}
   
 
