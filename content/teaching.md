@@ -11,6 +11,13 @@ Classes that I am teaching this term:
 
 Check [Canvas](https://oit.instructure.com/) for course details and information.
 
+{{<details title = "Some course notes">}}
+
+  - [Differential Calculus](/files/Differential_Calculus.pdf)
+  - [Integral Calculus](/files/Integral_Calculus.pdf)
+
+{{</details>}}
+
 {{<details title = "Courses that I have taught in the past">}}
   
 
