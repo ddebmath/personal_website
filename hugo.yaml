@@ -1,0 +1,54 @@
+baseurl: "https://dibyajyoti.net/"  # please update this to your actual URL
+languageCode: "en-us"
+title: "Math Et al."
+theme: "hugo-xmin-master"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Teaching
+      url: "teaching/"
+      weight: 2
+    - name: Research
+      url: "research/"
+      weight: 3
+    - name: Interests
+      url: "interests/"
+      weight: 4
+    - name: Contact
+      url: "contact/"
+      weight: 5
+    
+
+params:
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; [Dibyajyoti Deb](https://dibyajyoti.net) 2024 -- {Year} | [Github](https://github.com/ddebmath)"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
