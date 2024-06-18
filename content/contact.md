@@ -19,6 +19,8 @@ author:
 
 **Office** - BH 115J 
 
+**Address** - 3201 Campus Drive, Klamath Falls, OR 97601
+
 **Email** - [dibyajyoti.deb[at]oit[dot]edu](mailto:dibyajyoti.deb@oit.edu)
 
 <!---
