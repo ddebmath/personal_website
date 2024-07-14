@@ -1,4 +1,4 @@
-baseurl: "https://dibyajyoti.net/"  # please update this to your actual URL
+baseurl: "https://dibyajyotideb.com/"  # please update this to your actual URL
 languageCode: "en-us"
 title: "Math Et al."
 theme: "hugo-xmin-master"
@@ -32,7 +32,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Dibyajyoti Deb](https://dibyajyoti.net) 2024 -- {Year} | [Github](https://github.com/ddebmath)"
+  footer: "&copy; [Dibyajyoti Deb](https://dibyajyotideb.com) 2024 -- {Year} | [Github](https://github.com/ddebmath)"
 
 markup:
   highlight:
