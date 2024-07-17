@@ -19,7 +19,7 @@ Check [Canvas](https://oit.instructure.com/) for course details and information.
 
 {{</details>}}
 
-{{<details title = "Some old videos that I made">}}
+{{<details title = "Some old course videos that I made">}}
 
   - [Vector Calculus I](https://drive.google.com/drive/folders/1M9oa-jtBBT0n2qBvJ1fDKM8LkJmmG2qR?usp=drive_link)
   - [Mathematical Structures](https://drive.google.com/drive/folders/1N6J0mF_16GHOVCVKjzA7wsKjpx45wtir?usp=drive_link)

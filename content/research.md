@@ -17,7 +17,7 @@ CV ([.pdf](/files/Dibyajyoti_Deb-CV.pdf))
   2. *On the Diophantine equation* \(p^x + p^y = z^{2n}\), [arXiv.org:1709.01814](https://arxiv.org/abs/1709.01814)
   3. *(with David Leep) The Poincare series of a diagonal polynomial*
   4. *(with David Leep) Powers in complete discrete valuation rings*
-  5. *Diagonal forms and the rationality of the Poincare series*
+  5. *Diagonal forms and the rationality of the Poincare series*, Ph.D. thesis, University of Kentucky, 2010.
 
 ## OIT Mathematics Colloquium
 I have been organizing the OIT Mathematics Colloquium since Fall 2018. I'm always looking for speakers. If you are interested in giving a talk, then please contact me. Here are the list of former speakers.
