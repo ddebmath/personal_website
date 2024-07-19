@@ -33,6 +33,7 @@ menu:
 params:
   description: "A website built through Hugo and blogdown."
   footer: "&copy; [Dibyajyoti Deb](https://dibyajyotideb.com) 2024 -- {Year} | [Github](https://github.com/ddebmath)"
+  favicon: false
 
 markup:
   highlight:
