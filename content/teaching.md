@@ -6,8 +6,8 @@ author:
 # SPRING 2024
 
 Classes that I am teaching this term:
-  - MATH 254 - Vector Calculus I
-  - MATH 341 - Linear Algebra I
+  - MATH 310 - Mathematical Structures
+  - MATH 321 - Applied Differential Equations I
 
 Check [Canvas](https://oit.instructure.com/) for course details and information.
 
