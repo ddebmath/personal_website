@@ -3,7 +3,7 @@ title: Teaching
 author: 
 ---
 
-# SPRING 2024
+# FALL 2024
 
 Classes that I am teaching this term:
   - MATH 310 - Mathematical Structures
