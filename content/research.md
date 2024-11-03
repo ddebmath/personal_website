@@ -115,6 +115,8 @@ I have been organizing the OIT Mathematics Colloquium since Fall 2018. I'm alway
   - **Tiernan Fogarty (Dept. of Mathematics), Graeme Wiltrout (Math Major)** - *Exploring Discrete Data Through Taylor Series*, May 15, 2024.
   - **Alissa Whiteley, Dept. of Mathematics** - *Modeling Greening Using Agent-Based and Ordinary Differential Equation Models*, June 5, 2024.
 
+  ### Fall 2024
+  - **Pake Melland, Dept. of Mathematics** - *One spike, two spike, red duck, dead duck*, October 17, 2024.
 
 {{</details>}}
 

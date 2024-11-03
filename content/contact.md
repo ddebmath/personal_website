@@ -13,9 +13,9 @@ author:
 | 11 AM |   Class     |  |    Class    |    Class    | Class |
 | 12 PM |   Class     |  |    Class    |    Class    | Class |
 | 1 PM |  Office Hour |  | Office Hour | Office Hour | Office Hour  |
-| 2 PM |              |  |             |  |  |
+| 2 PM |  Office Hour |  |             |  |  |
 | 3 PM |              |  |             |      |  |
-| 4 PM |              |  |             |      |  |
+| 4 PM |  Meeting     |  |             |      |  |
 
 **Office** - BH 115J 
 
