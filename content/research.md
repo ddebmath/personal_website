@@ -117,6 +117,8 @@ I have been organizing the OIT Mathematics Colloquium since Fall 2018. I'm alway
 
   ### Fall 2024
   - **Pake Melland, Dept. of Mathematics** - *One spike, two spike, red duck, dead duck*, October 17, 2024.
+  - **Jason Smith, Dept. of Mathematics** - *How many golf balls can fit into a bus?*, November 7, 2024.
+  - **Joseph Reid, Dept. of Mathematics** - *Reinforcement Learning AI as a method for Active Dynamic Control in Complex Engineering Systems*, November 21, 2024.
 
 {{</details>}}
 
