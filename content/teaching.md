@@ -6,7 +6,7 @@ author:
 # WINTER 2025
 
 Classes that I am teaching this term:
-  - MATH 341 - Linear Algebra
+  - MATH 341 - Linear Algebra I
   - MATH 346 - Number Theory
 
 Check [Canvas](https://oit.instructure.com/) for course details and information.
