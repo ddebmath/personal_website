@@ -3,19 +3,19 @@ title: Contact
 author: 
 ---
 
-## Schedule for Spring 2024
+## Schedule for Winter 2025
 
 |      | Monday | Tuesday | Wednesday | Thursday | Friday |
 |-------------:|------------:|-------------:|------------:|--------:|--------:|
 | 8 AM |              |  |             |             |  |
 | 9 AM |              |  |             |             |  |
 | 10 AM |             |  |             |             |  |
-| 11 AM |   Class     |  |    Class    |    Class    | Class |
+| 11 AM |            |  |        |        |  |
 | 12 PM |   Class     |  |    Class    |    Class    | Class |
-| 1 PM |  Office Hour |  | Office Hour | Office Hour | Office Hour  |
-| 2 PM |  Office Hour |  |             |  |  |
-| 3 PM |              |  |             |      |  |
-| 4 PM |  Meeting     |  |             |      |  |
+| 1 PM |  Class |  | Class | Class | Class  |
+| 2 PM |  Office Hour |  |    Office Hour  | Office Hour | Office Hour |
+| 3 PM |              |  |    Office Hour  |  Meeting    |  |
+| 4 PM |       |  |             |   Meeting   |  |
 
 **Office** - BH 115J 
 
