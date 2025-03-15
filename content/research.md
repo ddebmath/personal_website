@@ -120,6 +120,11 @@ I have been organizing the OIT Mathematics Colloquium since Fall 2018. I'm alway
   - **Jason Smith, Dept. of Mathematics** - *How many golf balls can fit into a bus?*, November 7, 2024.
   - **Joseph Reid, Dept. of Mathematics** - *Reinforcement Learning AI as a method for Active Dynamic Control in Complex Engineering Systems*, November 21, 2024.
 
+  ### Winter 2025
+  - **Yuehai Yang, Dept. of Natural Sciences** - *Zooming-in on a Physics Class: What May Have Made It Effective at Whole-Class, Group, and Individual Levels*, January 29, 2025.
+  - **Gregg Waterman, Dept. of Mathematics** - *Mathematical Movers, LLC            Gregg Waterman, CEO*, February 19, 2025.
+  - **Jim Fischer, Dept. of Mathematics** - *Introduction to the Calculus of Variations*, March 5, 2025.
+
 {{</details>}}
 
 <!---
