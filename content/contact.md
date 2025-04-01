@@ -10,12 +10,12 @@ author:
 | 8 AM |              |  |             |             |  |
 | 9 AM |              |  |             |             |  |
 | 10 AM |             |  |             |             |  |
-| 11 AM |            |  |        |        |  |
+| 11 AM |    Class        |  |  Class      |  Class      | Class |
 | 12 PM |   Class     |  |    Class    |    Class    | Class |
-| 1 PM |  Class |  | Class | Class | Class  |
-| 2 PM |  Office Hour |  |    Office Hour  | Office Hour | Office Hour |
-| 3 PM |              |  |    Office Hour  |  Meeting    |  |
-| 4 PM |       |  |             |   Meeting   |  |
+| 1 PM |  Office Hour |  | Office Hour | Office Hour | Office Hour  |
+| 2 PM |              |  |    Office Hour  |  |  |
+| 3 PM |              |  |      |     |  |
+| 4 PM |       |  |             |      |  |
 
 **Office** - BH 115J 
 

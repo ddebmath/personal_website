@@ -3,11 +3,11 @@ title: Teaching
 author: 
 ---
 
-# WINTER 2025
+# SPRING 2025
 
 Classes that I am teaching this term:
+  - MATH 321 - Applied Differential Equations I
   - MATH 341 - Linear Algebra I
-  - MATH 346 - Number Theory
 
 Check [Canvas](https://oit.instructure.com/) for course details and information.
 
