@@ -125,6 +125,9 @@ I have been organizing the OIT Mathematics Colloquium since Fall 2018. I'm alway
   - **Gregg Waterman, Dept. of Mathematics** - *Mathematical Movers, LLC            Gregg Waterman, CEO*, February 19, 2025.
   - **Jim Fischer, Dept. of Mathematics** - *Introduction to the Calculus of Variations*, March 5, 2025.
 
+  ### Spring 2025
+  - **Franny Howes, Dept. of Communications** - *Using Unicode and Emojis in the Classroom*, April 23, 2025.
+
 {{</details>}}
 
 <!---
