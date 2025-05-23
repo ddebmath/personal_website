@@ -127,6 +127,7 @@ I have been organizing the OIT Mathematics Colloquium since Fall 2018. I'm alway
 
   ### Spring 2025
   - **Franny Howes, Dept. of Communications** - *Using Unicode and Emojis in the Classroom*, April 23, 2025.
+  - **Pake Melland, Dept. of Mathematics** - *Data Science meets Physics*, May 14, 2025.
 
 {{</details>}}
 

@@ -3,7 +3,7 @@ title: Contact
 author: 
 ---
 
-## Schedule for Winter 2025
+## Schedule for Spring 2025
 
 |      | Monday | Tuesday | Wednesday | Thursday | Friday |
 |-------------:|------------:|-------------:|------------:|--------:|--------:|
@@ -14,8 +14,8 @@ author:
 | 12 PM |   Class     |  |    Class    |    Class    | Class |
 | 1 PM |  Office Hour |  | Office Hour | Office Hour | Office Hour  |
 | 2 PM |              |  |    Office Hour  |  |  |
-| 3 PM |              |  |      |     |  |
-| 4 PM |       |  |             |      |  |
+| 3 PM |              |  |      |     | Meeting |
+| 4 PM |       |  |             |      | Meeting |
 
 **Office** - BH 115J 
 
