@@ -130,6 +130,14 @@ I have been organizing the OIT Mathematics Colloquium since Fall 2018. I'm alway
   - **Pake Melland, Dept. of Mathematics** - *Data Science meets Physics*, May 14, 2025.
   - **Randall Paul, Dept. of Mathematics** - *In Search of Special Triangles*, May 29, 2025.
 
+  ### Fall 2025
+  - **Karissa Lyda, Math Major, Oregon State University** - *Perplexing p-adics*, October 23, 2025.
+  - **Randall Paul, Dept. of Mathematics** - *Saving Sandra Bullock or The Unexpected Difficulties of Maneuvering in Orbit*, November 12, 2025.
+  - **Gregg Waterman, Dept. of Mathematics** - *P-adics on Parade*, December 3, 2025.
+
+  ### Winter 2026
+  - **Cedric Romero, Math Major, Oregon Institute of Technology** - *Binary? In my decimal? It's more likely than you think!*, January 28, 2026.
+
 {{</details>}}
 
 <!---

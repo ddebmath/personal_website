@@ -3,11 +3,11 @@ title: Teaching
 author: 
 ---
 
-# FALL 2025
+# WINTER 2026
 
 Classes that I am teaching this term:
-  - MATH 252 - Integral Calculus
-  - MATH 254 - Vector Calculus I
+  - MATH 111Z - Pre Calculus I: Functions
+  - MATH 341 - Linear Algebra I
 
 Check [Canvas](https://oit.instructure.com/) for course details and information.
 

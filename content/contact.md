@@ -3,7 +3,7 @@ title: Contact
 author: 
 ---
 
-## Schedule for Fall 2025
+## Schedule for Winter 2026
 
 |      | Monday | Tuesday | Wednesday | Thursday | Friday |
 |-------------:|------------:|-------------:|------------:|--------:|--------:|
