@@ -137,7 +137,8 @@ I have been organizing the OIT Mathematics Colloquium since Fall 2018. I'm alway
 
   ### Winter 2026
   - **Cedric Romero, Math Major, Oregon Institute of Technology** - *Binary? In my decimal? It's more likely than you think!*, January 28, 2026.
-
+  - **Jesse Kinder, Dept. of Natural Sciences** - *Gravitational Lensing: Testing Relativity and Exploring the Cosmos*, February 18, 2026.
+  - **Charles Riley, Dept. of Civil Engineering** - *Exploiting Inverse Power Trends to Improve Impact Testing for Structural Health Monitoring*, March 4, 2026.
 {{</details>}}
 
 <!---
