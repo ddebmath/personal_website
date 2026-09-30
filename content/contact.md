@@ -3,17 +3,17 @@ title: Contact
 author: 
 ---
 
-## Schedule for Spring 2026
+## Schedule for Fall 2026
 
 |      | Monday | Tuesday | Wednesday | Thursday | Friday |
 |-------------:|------------:|-------------:|------------:|--------:|--------:|
 | 8 AM |              |  |             |             |  |
 | 9 AM |              |  |             |             |  |
-| 10 AM |     Class        |  |     Class        |     Class        | Class |
-| 11 AM |      Office Hour      |  |  Office Hour      |  Office Hour     | Office Hour |
-| 12 PM |        |  |    Office Hour    |       |  |
+| 10 AM |             |  |           |             |  |
+| 11 AM |     Class      |  |  Class      |  Class     | Class |
+| 12 PM |    Office Hour    |  |    Office Hour    |   Office Hour    | Office Hour |
 | 1 PM |  Class |  | Class | Class | Class  |
-| 2 PM |              |  |     | Meeting |  |
+| 2 PM |              |  | Office Hour    | Meeting |  |
 | 3 PM |              |  |      |     |  |
 | 4 PM |       |  |             |      |  |
 

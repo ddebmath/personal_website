@@ -3,11 +3,11 @@ title: Teaching
 author: 
 ---
 
-# SPRING 2026
+# FALL 2026
 
 Classes that I am teaching this term:
-  - MATH 327 - Discrete Mathematics
-  - MATH 341 - Linear Algebra I
+  - MATH 254 - Vector Calculus I
+  - MATH 321 - Applied Differential Equations I
 
 Check [Canvas](https://oit.instructure.com/) for course details and information.
 
